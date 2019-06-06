@@ -1,24 +1,18 @@
+One Month - Ruby on Rails
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is for the [One Month Rails](https://www.onemonth.com/courses/rails) course taught by [Mattan Griffel] (https://www.mattangriffel.com).
 
-Things you may want to cover:
+#Stack
 
-* Ruby version
+* Ruby version ~> 2.6.3
 
-* System dependencies
+* Rails version ~> 5.2.3
 
-* Configuration
+#Setup
 
-* Database creation
+Under Construction
 
-* Database initialization
+## Further help
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+To get more help with Ruby on Rails, check out the [Rails Guides](https://guides.rubyonrails.org).
