@@ -1,15 +1,18 @@
-One Month - Ruby on Rails
-# README
+# One Month - Ruby on Rails
 
-This project is for the [One Month Rails](https://www.onemonth.com/courses/rails) course taught by [Mattan Griffel] (https://www.mattangriffel.com).
+This project is for the [One Month Rails](https://www.onemonth.com/courses/rails) course taught by [Mattan Griffel](https://www.mattangriffel.com).
 
-#Stack
+## Stack
 
 * Ruby version ~> 2.6.3
 
 * Rails version ~> 5.2.3
 
-#Setup
+
+## Installs
+* Bootstrap version ~> 4.3.1 [rubygem](https://github.com/twbs/bootstrap-rubygem/)
+
+## Setup
 
 Under Construction
 
