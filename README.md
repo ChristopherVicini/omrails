@@ -14,7 +14,7 @@ This project is for the [One Month Rails](https://www.onemonth.com/courses/rails
 
 ## Setup
 
-Under Construction
+Under Construction - 11/13/2019
 
 ## Further help
 
